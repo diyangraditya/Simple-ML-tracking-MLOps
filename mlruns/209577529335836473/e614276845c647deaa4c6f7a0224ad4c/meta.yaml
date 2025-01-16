@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/209577529335836473/e614276845c647deaa4c6f7a0224ad4c/artifacts
+end_time: 1737002642411
+entry_point_name: ''
+experiment_id: '209577529335836473'
+lifecycle_stage: active
+run_id: e614276845c647deaa4c6f7a0224ad4c
+run_name: apples_rf_test
+run_uuid: e614276845c647deaa4c6f7a0224ad4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737002639476
+status: 3
+tags: []
+user_id: diyrad167
